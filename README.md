@@ -5,7 +5,7 @@
 ---
 
 ## 📚 Kya Milega Yahan?  
-✅ **Toppers Ke Notes** – Short, crisp, aur exam-focused  
+✅ **Toppers Ke Handwritten Notes** – Short, crisp, aur exam-focused  
 ✅ **Subject-Wise Material** – Ek jagah sab kuch, no time waste!  
 ✅ **PYQs & Solutions** – Pichle saalon ka trend samjho, marks badhao  
 ✅ **Formulas & Summaries** – Quick revision ke liye perfect!  
