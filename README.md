@@ -1,6 +1,6 @@
 # 📚 SRM Notes Repository – Toppers Ka Secret!  
 
-**Exams ka tension? Notes nahi mil rahe?** Chill maaro! Yeh **SRM Notes Repository** aapke liye banaya gaya hai – curated by **Dhruv Pandey & Akash Kumar (B.Tech. CSE, SRM Batch of 2024)** to help juniors **tension-free padhai karein aur exams easily crack karein!**  
+**Exams ka tension? Notes nahi mil rahe?** Chill maaro! Yeh **SRM Notes Repository** aapke liye banaya gaya hai – curated by **Akash Kumar & Dhruv Pandey  (B.Tech. CSE, SRM Batch of 2024)** to help juniors **tension-free padhai karein aur exams easily crack karein!**  
 
 ---
 
